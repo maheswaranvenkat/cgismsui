@@ -1,0 +1,1 @@
+export const studentRegistrationGetAll: string = getApi()
